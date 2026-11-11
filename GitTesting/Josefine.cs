@@ -24,7 +24,7 @@ namespace GitTesting
 
         public string Birthday()
         {
-            return $"Deez nuts";
+            return $"Hello";
         }
     }
 }
