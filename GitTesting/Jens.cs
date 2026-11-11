@@ -6,6 +6,6 @@ namespace GitTesting
 {
     internal class Jens
     {
-
+        public string aids { get; set; }
     }
 }
