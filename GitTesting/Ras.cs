@@ -6,7 +6,7 @@ namespace GitTesting
 {
     public class Ras
     {
-        public int age { get; set; }
+        public int Age_baby_boiii { get; set; }
 
 
     }
