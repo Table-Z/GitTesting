@@ -26,5 +26,10 @@ namespace GitTesting
             return false;
         }
 
+        public void tester()
+        {
+            Console.WriteLine("you cant see me on god frfr");
+        }
+
     }
 }
