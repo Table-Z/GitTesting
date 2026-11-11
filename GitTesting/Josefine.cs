@@ -6,7 +6,7 @@ namespace GitTesting
 {
     public class Josefine
     {
-        private int _age;
+        private int _age = 23;
 
         public int Age { get; set; }
 
